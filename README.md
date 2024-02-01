@@ -1,4 +1,4 @@
-## Hi 👋! My name is Raj Kadam and I'm a Data Scientist from India.
+<h2 align = "center"> Hi 👋! My name is Raj Kadam and I'm a Data Scientist from India. </h2>
 
 ## 🧑‍💻 Projects:
 #### MedInsurePredict | <a href = "https://github.com/Rajkadam21/Medical-Insurance-Price-Prediction-Regression"> GitHub</a>
