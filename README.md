@@ -1,7 +1,7 @@
 <h2 align = "center"> Hi 👋! My name is Raj Kadam and I'm a Data Scientist from India. </h2>
 
 ## 🧑‍💻 Projects:
-#### MedInsurePredict | <a href = "https://github.com/Rajkadam21/Medical-Insurance-Price-Prediction-Regression"> GitHub</a>
+#### MedInsurePredict | <a href = "https://github.com/Rajkadam21/Medical-Insurance-Price-Prediction"> GitHub</a>
 -	 Developed a machine learning model for predicting medical insurance prices using the XGBRFRegressor algorithm.
 -	 Leveraged features such as age, BMI, and number of children to accurately estimate insurance costs.
 -	 This project demonstrates expertise in applying advanced machine learning techniques to real-world problems in the healthcare domain.
